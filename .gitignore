@@ -1,1 +1,18 @@
+# Ignore pasta do Visual Studio
 .vs/
+# Ignore arquivos de build
+bin/
+obj/
+# Arquivos de configuração local do usuário
+*.user
+*.userosscache
+*.suo
+*.userprefs
+# Arquivos de logs
+*.log
+# Arquivos de backup
+*~
+# Arquivos de configuração do Visual Studio para projetos ASP.NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/

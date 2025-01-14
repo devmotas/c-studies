@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projeto .net\\VectorExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{667201FF-F29D-438E-8D20-FC9390165E1E}|VectorExercise\\VectorExercise.csproj|c:\\projeto .net\\vectorexercise\\vectorexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667201FF-F29D-438E-8D20-FC9390165E1E}|VectorExercise\\VectorExercise.csproj|solutionrelative:vectorexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667201FF-F29D-438E-8D20-FC9390165E1E}|VectorExercise\\VectorExercise.csproj|c:\\projeto .net\\vectorexercise\\vectorexercise\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667201FF-F29D-438E-8D20-FC9390165E1E}|VectorExercise\\VectorExercise.csproj|solutionrelative:vectorexercise\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Projeto .net\\VectorExercise\\VectorExercise\\Booking.cs",
+              "RelativeDocumentMoniker": "VectorExercise\\Booking.cs",
+              "ToolTip": "C:\\Projeto .net\\VectorExercise\\VectorExercise\\Booking.cs",
+              "RelativeToolTip": "VectorExercise\\Booking.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:09:27.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projeto .net\\VectorExercise\\VectorExercise\\Program.cs",
+              "RelativeDocumentMoniker": "VectorExercise\\Program.cs",
+              "ToolTip": "C:\\Projeto .net\\VectorExercise\\VectorExercise\\Program.cs*",
+              "RelativeToolTip": "VectorExercise\\Program.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:29:26.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

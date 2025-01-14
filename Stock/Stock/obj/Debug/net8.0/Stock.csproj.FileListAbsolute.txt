@@ -1,0 +1,14 @@
+C:\Projeto .net\Stock\Stock\bin\Debug\net8.0\Stock.exe
+C:\Projeto .net\Stock\Stock\bin\Debug\net8.0\Stock.deps.json
+C:\Projeto .net\Stock\Stock\bin\Debug\net8.0\Stock.runtimeconfig.json
+C:\Projeto .net\Stock\Stock\bin\Debug\net8.0\Stock.dll
+C:\Projeto .net\Stock\Stock\bin\Debug\net8.0\Stock.pdb
+C:\Projeto .net\Stock\Stock\obj\Debug\net8.0\Stock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto .net\Stock\Stock\obj\Debug\net8.0\Stock.AssemblyInfoInputs.cache
+C:\Projeto .net\Stock\Stock\obj\Debug\net8.0\Stock.AssemblyInfo.cs
+C:\Projeto .net\Stock\Stock\obj\Debug\net8.0\Stock.csproj.CoreCompileInputs.cache
+C:\Projeto .net\Stock\Stock\obj\Debug\net8.0\Stock.dll
+C:\Projeto .net\Stock\Stock\obj\Debug\net8.0\refint\Stock.dll
+C:\Projeto .net\Stock\Stock\obj\Debug\net8.0\Stock.pdb
+C:\Projeto .net\Stock\Stock\obj\Debug\net8.0\Stock.genruntimeconfig.cache
+C:\Projeto .net\Stock\Stock\obj\Debug\net8.0\ref\Stock.dll

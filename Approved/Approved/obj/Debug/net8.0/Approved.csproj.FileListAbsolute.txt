@@ -1,0 +1,14 @@
+C:\Projeto .net\Approved\Approved\obj\Debug\net8.0\Approved.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto .net\Approved\Approved\obj\Debug\net8.0\Approved.AssemblyInfoInputs.cache
+C:\Projeto .net\Approved\Approved\obj\Debug\net8.0\Approved.AssemblyInfo.cs
+C:\Projeto .net\Approved\Approved\obj\Debug\net8.0\Approved.csproj.CoreCompileInputs.cache
+C:\Projeto .net\Approved\Approved\bin\Debug\net8.0\Approved.exe
+C:\Projeto .net\Approved\Approved\bin\Debug\net8.0\Approved.deps.json
+C:\Projeto .net\Approved\Approved\bin\Debug\net8.0\Approved.runtimeconfig.json
+C:\Projeto .net\Approved\Approved\bin\Debug\net8.0\Approved.dll
+C:\Projeto .net\Approved\Approved\bin\Debug\net8.0\Approved.pdb
+C:\Projeto .net\Approved\Approved\obj\Debug\net8.0\Approved.dll
+C:\Projeto .net\Approved\Approved\obj\Debug\net8.0\refint\Approved.dll
+C:\Projeto .net\Approved\Approved\obj\Debug\net8.0\Approved.pdb
+C:\Projeto .net\Approved\Approved\obj\Debug\net8.0\Approved.genruntimeconfig.cache
+C:\Projeto .net\Approved\Approved\obj\Debug\net8.0\ref\Approved.dll

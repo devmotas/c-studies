@@ -1,0 +1,14 @@
+C:\Projeto .net\VectorExercise\VectorExercise\bin\Debug\net8.0\VectorExercise.exe
+C:\Projeto .net\VectorExercise\VectorExercise\bin\Debug\net8.0\VectorExercise.deps.json
+C:\Projeto .net\VectorExercise\VectorExercise\bin\Debug\net8.0\VectorExercise.runtimeconfig.json
+C:\Projeto .net\VectorExercise\VectorExercise\bin\Debug\net8.0\VectorExercise.dll
+C:\Projeto .net\VectorExercise\VectorExercise\bin\Debug\net8.0\VectorExercise.pdb
+C:\Projeto .net\VectorExercise\VectorExercise\obj\Debug\net8.0\VectorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto .net\VectorExercise\VectorExercise\obj\Debug\net8.0\VectorExercise.AssemblyInfoInputs.cache
+C:\Projeto .net\VectorExercise\VectorExercise\obj\Debug\net8.0\VectorExercise.AssemblyInfo.cs
+C:\Projeto .net\VectorExercise\VectorExercise\obj\Debug\net8.0\VectorExercise.csproj.CoreCompileInputs.cache
+C:\Projeto .net\VectorExercise\VectorExercise\obj\Debug\net8.0\VectorExercise.dll
+C:\Projeto .net\VectorExercise\VectorExercise\obj\Debug\net8.0\refint\VectorExercise.dll
+C:\Projeto .net\VectorExercise\VectorExercise\obj\Debug\net8.0\VectorExercise.pdb
+C:\Projeto .net\VectorExercise\VectorExercise\obj\Debug\net8.0\VectorExercise.genruntimeconfig.cache
+C:\Projeto .net\VectorExercise\VectorExercise\obj\Debug\net8.0\ref\VectorExercise.dll

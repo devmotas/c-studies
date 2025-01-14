@@ -1,0 +1,14 @@
+C:\Projeto .net\MatrixExercise2\MatrixExercise2\bin\Debug\net8.0\MatrixExercise2.exe
+C:\Projeto .net\MatrixExercise2\MatrixExercise2\bin\Debug\net8.0\MatrixExercise2.deps.json
+C:\Projeto .net\MatrixExercise2\MatrixExercise2\bin\Debug\net8.0\MatrixExercise2.runtimeconfig.json
+C:\Projeto .net\MatrixExercise2\MatrixExercise2\bin\Debug\net8.0\MatrixExercise2.dll
+C:\Projeto .net\MatrixExercise2\MatrixExercise2\bin\Debug\net8.0\MatrixExercise2.pdb
+C:\Projeto .net\MatrixExercise2\MatrixExercise2\obj\Debug\net8.0\MatrixExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto .net\MatrixExercise2\MatrixExercise2\obj\Debug\net8.0\MatrixExercise2.AssemblyInfoInputs.cache
+C:\Projeto .net\MatrixExercise2\MatrixExercise2\obj\Debug\net8.0\MatrixExercise2.AssemblyInfo.cs
+C:\Projeto .net\MatrixExercise2\MatrixExercise2\obj\Debug\net8.0\MatrixExercise2.csproj.CoreCompileInputs.cache
+C:\Projeto .net\MatrixExercise2\MatrixExercise2\obj\Debug\net8.0\MatrixExercise2.dll
+C:\Projeto .net\MatrixExercise2\MatrixExercise2\obj\Debug\net8.0\refint\MatrixExercise2.dll
+C:\Projeto .net\MatrixExercise2\MatrixExercise2\obj\Debug\net8.0\MatrixExercise2.pdb
+C:\Projeto .net\MatrixExercise2\MatrixExercise2\obj\Debug\net8.0\MatrixExercise2.genruntimeconfig.cache
+C:\Projeto .net\MatrixExercise2\MatrixExercise2\obj\Debug\net8.0\ref\MatrixExercise2.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projeto .net\\Approved\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{441E582A-FCC0-4FF0-BB64-D96C073812E0}|Approved\\Approved.csproj|c:\\projeto .net\\approved\\approved\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441E582A-FCC0-4FF0-BB64-D96C073812E0}|Approved\\Approved.csproj|solutionrelative:approved\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441E582A-FCC0-4FF0-BB64-D96C073812E0}|Approved\\Approved.csproj|c:\\projeto .net\\approved\\approved\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441E582A-FCC0-4FF0-BB64-D96C073812E0}|Approved\\Approved.csproj|solutionrelative:approved\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "C:\\Projeto .net\\Approved\\Approved\\Calculate.cs",
+              "RelativeDocumentMoniker": "Approved\\Calculate.cs",
+              "ToolTip": "C:\\Projeto .net\\Approved\\Approved\\Calculate.cs",
+              "RelativeToolTip": "Approved\\Calculate.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T17:07:55.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projeto .net\\Approved\\Approved\\Program.cs",
+              "RelativeDocumentMoniker": "Approved\\Program.cs",
+              "ToolTip": "C:\\Projeto .net\\Approved\\Approved\\Program.cs",
+              "RelativeToolTip": "Approved\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T17:07:40.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

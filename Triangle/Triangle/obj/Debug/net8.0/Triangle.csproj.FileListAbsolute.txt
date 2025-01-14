@@ -1,0 +1,14 @@
+C:\Projeto .net\Triangle\Triangle\bin\Debug\net8.0\Triangle.exe
+C:\Projeto .net\Triangle\Triangle\bin\Debug\net8.0\Triangle.deps.json
+C:\Projeto .net\Triangle\Triangle\bin\Debug\net8.0\Triangle.runtimeconfig.json
+C:\Projeto .net\Triangle\Triangle\bin\Debug\net8.0\Triangle.dll
+C:\Projeto .net\Triangle\Triangle\bin\Debug\net8.0\Triangle.pdb
+C:\Projeto .net\Triangle\Triangle\obj\Debug\net8.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto .net\Triangle\Triangle\obj\Debug\net8.0\Triangle.AssemblyInfoInputs.cache
+C:\Projeto .net\Triangle\Triangle\obj\Debug\net8.0\Triangle.AssemblyInfo.cs
+C:\Projeto .net\Triangle\Triangle\obj\Debug\net8.0\Triangle.csproj.CoreCompileInputs.cache
+C:\Projeto .net\Triangle\Triangle\obj\Debug\net8.0\Triangle.dll
+C:\Projeto .net\Triangle\Triangle\obj\Debug\net8.0\refint\Triangle.dll
+C:\Projeto .net\Triangle\Triangle\obj\Debug\net8.0\Triangle.pdb
+C:\Projeto .net\Triangle\Triangle\obj\Debug\net8.0\Triangle.genruntimeconfig.cache
+C:\Projeto .net\Triangle\Triangle\obj\Debug\net8.0\ref\Triangle.dll

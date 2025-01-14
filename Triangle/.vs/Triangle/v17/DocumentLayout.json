@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projeto .net\\Triangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F346E735-464D-439A-944D-CF1A1FD52C06}|Triangle\\Triangle.csproj|c:\\projeto .net\\triangle\\triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F346E735-464D-439A-944D-CF1A1FD52C06}|Triangle\\Triangle.csproj|solutionrelative:triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F346E735-464D-439A-944D-CF1A1FD52C06}|Triangle\\Triangle.csproj|c:\\projeto .net\\triangle\\triangle\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F346E735-464D-439A-944D-CF1A1FD52C06}|Triangle\\Triangle.csproj|solutionrelative:triangle\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "C:\\Projeto .net\\Triangle\\Triangle\\Calculate.cs",
+              "RelativeDocumentMoniker": "Triangle\\Calculate.cs",
+              "ToolTip": "C:\\Projeto .net\\Triangle\\Triangle\\Calculate.cs",
+              "RelativeToolTip": "Triangle\\Calculate.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T16:22:51.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projeto .net\\Triangle\\Triangle\\Program.cs",
+              "RelativeDocumentMoniker": "Triangle\\Program.cs",
+              "ToolTip": "C:\\Projeto .net\\Triangle\\Triangle\\Program.cs",
+              "RelativeToolTip": "Triangle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T16:22:11.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

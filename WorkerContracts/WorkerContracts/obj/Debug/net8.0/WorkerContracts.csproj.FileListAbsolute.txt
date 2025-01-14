@@ -1,0 +1,14 @@
+C:\Projeto .net\WorkerContracts\WorkerContracts\bin\Debug\net8.0\WorkerContracts.exe
+C:\Projeto .net\WorkerContracts\WorkerContracts\bin\Debug\net8.0\WorkerContracts.deps.json
+C:\Projeto .net\WorkerContracts\WorkerContracts\bin\Debug\net8.0\WorkerContracts.runtimeconfig.json
+C:\Projeto .net\WorkerContracts\WorkerContracts\bin\Debug\net8.0\WorkerContracts.dll
+C:\Projeto .net\WorkerContracts\WorkerContracts\bin\Debug\net8.0\WorkerContracts.pdb
+C:\Projeto .net\WorkerContracts\WorkerContracts\obj\Debug\net8.0\WorkerContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto .net\WorkerContracts\WorkerContracts\obj\Debug\net8.0\WorkerContracts.AssemblyInfoInputs.cache
+C:\Projeto .net\WorkerContracts\WorkerContracts\obj\Debug\net8.0\WorkerContracts.AssemblyInfo.cs
+C:\Projeto .net\WorkerContracts\WorkerContracts\obj\Debug\net8.0\WorkerContracts.csproj.CoreCompileInputs.cache
+C:\Projeto .net\WorkerContracts\WorkerContracts\obj\Debug\net8.0\WorkerContracts.dll
+C:\Projeto .net\WorkerContracts\WorkerContracts\obj\Debug\net8.0\refint\WorkerContracts.dll
+C:\Projeto .net\WorkerContracts\WorkerContracts\obj\Debug\net8.0\WorkerContracts.pdb
+C:\Projeto .net\WorkerContracts\WorkerContracts\obj\Debug\net8.0\WorkerContracts.genruntimeconfig.cache
+C:\Projeto .net\WorkerContracts\WorkerContracts\obj\Debug\net8.0\ref\WorkerContracts.dll

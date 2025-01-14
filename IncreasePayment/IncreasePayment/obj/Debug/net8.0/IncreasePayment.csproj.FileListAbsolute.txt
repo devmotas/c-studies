@@ -1,0 +1,14 @@
+C:\Projeto .net\IncreasePayment\IncreasePayment\bin\Debug\net8.0\IncreasePayment.exe
+C:\Projeto .net\IncreasePayment\IncreasePayment\bin\Debug\net8.0\IncreasePayment.deps.json
+C:\Projeto .net\IncreasePayment\IncreasePayment\bin\Debug\net8.0\IncreasePayment.runtimeconfig.json
+C:\Projeto .net\IncreasePayment\IncreasePayment\bin\Debug\net8.0\IncreasePayment.dll
+C:\Projeto .net\IncreasePayment\IncreasePayment\bin\Debug\net8.0\IncreasePayment.pdb
+C:\Projeto .net\IncreasePayment\IncreasePayment\obj\Debug\net8.0\IncreasePayment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto .net\IncreasePayment\IncreasePayment\obj\Debug\net8.0\IncreasePayment.AssemblyInfoInputs.cache
+C:\Projeto .net\IncreasePayment\IncreasePayment\obj\Debug\net8.0\IncreasePayment.AssemblyInfo.cs
+C:\Projeto .net\IncreasePayment\IncreasePayment\obj\Debug\net8.0\IncreasePayment.csproj.CoreCompileInputs.cache
+C:\Projeto .net\IncreasePayment\IncreasePayment\obj\Debug\net8.0\IncreasePayment.dll
+C:\Projeto .net\IncreasePayment\IncreasePayment\obj\Debug\net8.0\refint\IncreasePayment.dll
+C:\Projeto .net\IncreasePayment\IncreasePayment\obj\Debug\net8.0\IncreasePayment.pdb
+C:\Projeto .net\IncreasePayment\IncreasePayment\obj\Debug\net8.0\IncreasePayment.genruntimeconfig.cache
+C:\Projeto .net\IncreasePayment\IncreasePayment\obj\Debug\net8.0\ref\IncreasePayment.dll

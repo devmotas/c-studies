@@ -1,0 +1,14 @@
+C:\Projetos\My_projects\Projeto .net\UserPost\UserPost\bin\Debug\net8.0\UserPost.exe
+C:\Projetos\My_projects\Projeto .net\UserPost\UserPost\bin\Debug\net8.0\UserPost.deps.json
+C:\Projetos\My_projects\Projeto .net\UserPost\UserPost\bin\Debug\net8.0\UserPost.runtimeconfig.json
+C:\Projetos\My_projects\Projeto .net\UserPost\UserPost\bin\Debug\net8.0\UserPost.dll
+C:\Projetos\My_projects\Projeto .net\UserPost\UserPost\bin\Debug\net8.0\UserPost.pdb
+C:\Projetos\My_projects\Projeto .net\UserPost\UserPost\obj\Debug\net8.0\UserPost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\My_projects\Projeto .net\UserPost\UserPost\obj\Debug\net8.0\UserPost.AssemblyInfoInputs.cache
+C:\Projetos\My_projects\Projeto .net\UserPost\UserPost\obj\Debug\net8.0\UserPost.AssemblyInfo.cs
+C:\Projetos\My_projects\Projeto .net\UserPost\UserPost\obj\Debug\net8.0\UserPost.csproj.CoreCompileInputs.cache
+C:\Projetos\My_projects\Projeto .net\UserPost\UserPost\obj\Debug\net8.0\UserPost.dll
+C:\Projetos\My_projects\Projeto .net\UserPost\UserPost\obj\Debug\net8.0\refint\UserPost.dll
+C:\Projetos\My_projects\Projeto .net\UserPost\UserPost\obj\Debug\net8.0\UserPost.pdb
+C:\Projetos\My_projects\Projeto .net\UserPost\UserPost\obj\Debug\net8.0\UserPost.genruntimeconfig.cache
+C:\Projetos\My_projects\Projeto .net\UserPost\UserPost\obj\Debug\net8.0\ref\UserPost.dll
